@@ -1,0 +1,22 @@
+{
+  "name": "skeleton",
+  "version": "0.1.0",
+  "authors": [
+    "Michael Klein <michael@firstiwaslike.com>",
+	"Jakob Lehner <squamigera@gmail.com>", 
+	"Lisa Jedinger <lij@runtastic.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "loader.js": "~1.0.0",
+    "qunit-bdd": "~0.6.1"
+  }
+}
